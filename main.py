@@ -16,4 +16,3 @@ if response.status_code ==200:
     print(f"Wind Speed: {wind_speed} m/s")
     print(f"Wind Direction: {wind_direction}°")
 else: print("City not found. Please check the name and try again.")
-
